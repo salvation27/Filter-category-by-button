@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Filter-category-by-button/static/css/main.26f6a677.chunk.css",
+    "main.js": "/Filter-category-by-button/static/js/main.49ad205b.chunk.js",
+    "main.js.map": "/Filter-category-by-button/static/js/main.49ad205b.chunk.js.map",
+    "runtime-main.js": "/Filter-category-by-button/static/js/runtime-main.a92c0560.js",
+    "runtime-main.js.map": "/Filter-category-by-button/static/js/runtime-main.a92c0560.js.map",
+    "static/js/2.2761d0f8.chunk.js": "/Filter-category-by-button/static/js/2.2761d0f8.chunk.js",
+    "static/js/2.2761d0f8.chunk.js.map": "/Filter-category-by-button/static/js/2.2761d0f8.chunk.js.map",
+    "index.html": "/Filter-category-by-button/index.html",
+    "static/css/main.26f6a677.chunk.css.map": "/Filter-category-by-button/static/css/main.26f6a677.chunk.css.map",
+    "static/js/2.2761d0f8.chunk.js.LICENSE.txt": "/Filter-category-by-button/static/js/2.2761d0f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a92c0560.js",
+    "static/js/2.2761d0f8.chunk.js",
+    "static/css/main.26f6a677.chunk.css",
+    "static/js/main.49ad205b.chunk.js"
+  ]
+}
